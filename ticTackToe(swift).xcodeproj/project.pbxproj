@@ -6,6 +6,10 @@
 	objectVersion = 77;
 	objects = {
 
+/* Begin PBXBuildFile section */
+		E7F2A23E2FACEF6300FE9D96 /* README.md in Sources */ = {isa = PBXBuildFile; fileRef = E7F2A23D2FACEF4F00FE9D96 /* README.md */; };
+/* End PBXBuildFile section */
+
 /* Begin PBXCopyFilesBuildPhase section */
 		E7F7B16B2FACA63D00BC9A44 /* CopyFiles */ = {
 			isa = PBXCopyFilesBuildPhase;
@@ -19,6 +23,7 @@
 /* End PBXCopyFilesBuildPhase section */
 
 /* Begin PBXFileReference section */
+		E7F2A23D2FACEF4F00FE9D96 /* README.md */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = README.md; sourceTree = "<group>"; };
 		E7F7B16D2FACA63D00BC9A44 /* ticTackToe(swift) */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = "ticTackToe(swift)"; sourceTree = BUILT_PRODUCTS_DIR; };
 /* End PBXFileReference section */
 
@@ -44,6 +49,7 @@
 		E7F7B1642FACA63D00BC9A44 = {
 			isa = PBXGroup;
 			children = (
+				E7F2A23D2FACEF4F00FE9D96 /* README.md */,
 				E7F7B16F2FACA63D00BC9A44 /* ticTackToe(swift) */,
 				E7F7B16E2FACA63D00BC9A44 /* Products */,
 			);
@@ -121,6 +127,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				E7F2A23E2FACEF6300FE9D96 /* README.md in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
